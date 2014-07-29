@@ -1,0 +1,2 @@
+class HomerController < ApplicationController
+end
