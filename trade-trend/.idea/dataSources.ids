@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails trade-trend: development" uuid="7fe5bbc5-250a-448d-9fe5-f961132a5909">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails trade-trend: test" uuid="d859ce50-0fd6-4613-bc5b-653ccda66f3f">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails trade-trend: production" uuid="750cb559-1a9f-45fc-a40d-366e71b4474b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
