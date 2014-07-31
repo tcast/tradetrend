@@ -1,19 +1,22 @@
 tradetrend
 ==========
+#DEMO
 If you'd like to see this project running you can go to our Heroku app located at
 
   http://stock-trend.herokuapp.com
 
 <hr>
+##RUN IT YOURSELF
 If you choose to run this on your own machine , enter your Quandl AUTH-TOKEN as the following environmental variable
+  <br>
   QUANDL__AUTH__TOKEN
 
 <hr>
-API Resources
+##API Resources/Data Sources
   Quandl
 
 
-
+#Objective of the WebApp
 Building relationships between stock price , P/E vs  the popularity(chatter , google trends) using multiple keywords.
 
 
