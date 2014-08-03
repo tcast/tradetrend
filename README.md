@@ -33,10 +33,5 @@ classes:-
 every class has an id , symbol name and keywords assosciated with it.
 baseurl , appending url , etc.
 
-Rails
-
-Dynamic
-
-
 
 
