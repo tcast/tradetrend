@@ -65,17 +65,8 @@ class APIFY
 	  			http.request(req)
 				}
 		puts res.body
-		'''
-		@req= Net::HTTP::Get.new(@url.to_s)
-		@res=Net::HTTP.start(@url.port,@url.host) {|http|
-			http.request(@req)
-			}
-		req = Net::HTTP::Get.new(@url.to_s)
-		res = Net::HTTP.start(@url.host, @url.port) {|http|
-  			http.request(@req)
-			}
-		puts res.body
-		'''
+		
+			
 	end
 
 	def clean(values)
