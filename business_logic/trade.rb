@@ -1,6 +1,6 @@
 ###CRUD!!!
 require 'net/http'
-
+require 'json'
 class Node
   
   # The initialize method is the constructor.  The @val is
