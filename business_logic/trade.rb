@@ -46,9 +46,7 @@ class APIFY
 	end
 
 	def parse()
-		#puts @initme
-		requestQUANDL()
-		#return clean(requestQUANDL())
+		clean(requestQUANDL())
 
 	end
 
@@ -65,11 +63,13 @@ class APIFY
 	  			http.request(req)
 				}
 		puts res.body
+		return res.body
 		
 			
 	end
 
 	def clean(values)
+		
 		return values
 	end
 
