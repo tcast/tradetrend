@@ -3,7 +3,7 @@ tradetrend
 #DEMO
 If you'd like to see this project running you can go to our Heroku app located at
 
-  http://stock-trend.herokuapp.com
+  http://trade-trend.herokuapp.com
 
 <hr>
 ##RUN IT YOURSELF
